@@ -13,8 +13,6 @@
 
 ![justjavac微信公众帐号](http://justjavac.com/assets/images/weixin-justjavac.jpg)
 
-感谢 [@siberiawolf](https://github.com/siberiawolf) 使用 Bootstrap 开发了网页版，地址：http://siberiawolf.com/free_programming/index.html
-
 ## 参与交流
 
 欢迎大家将珍藏已久的经典免费书籍共享出来，您可以：
@@ -160,6 +158,7 @@
 * [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com/)
 * [Vim中文文档](https://github.com/vimcn/vimcdoc)
 * [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
+* [vim 实操教程](https://github.com/dofy/learn-vim)
 * [Atom飞行手册中文版](https://github.com/wizardforcel/atom-flight-manual-zh-cn)
 * [Markdown·简单的世界](https://github.com/wizardforcel/markdown-simple-world)
 * [一年成为 Emacs 高手](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)
@@ -489,7 +488,7 @@
 * Sea.js
     * [Hello Sea.js](http://island205.com/HelloSea.js/)
 * React.js
-    * [React.js 中文文档](http://reactjs.cn/)
+    * [React.js 中文文档](https://doc.react-china.org/)
     * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
     * [React 入门教程](http://fraserxu.me/intro-to-react/)
     * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
